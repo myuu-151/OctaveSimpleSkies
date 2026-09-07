@@ -4,7 +4,7 @@ Procedural skybox packs for the [Octave-libogc](https://github.com/myuu-151/Octa
 
 | Day | Night |
 |---|---|
-| ![Day preview](SkyboxDay/native/preview.png) | ![Night preview](SkyboxNight/preview.png) |
+| ![Day preview](SkyboxDay/native/preview_day.png) | ![Night preview](SkyboxNight/preview_night.png) |
 
 ## SkyboxDay
 
