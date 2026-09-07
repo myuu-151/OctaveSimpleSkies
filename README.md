@@ -1,7 +1,6 @@
 # OctaveSkies
 
-Procedural skybox packs for the [Octave-libogc](https://github.com/myuu-151/Octave-libogc) game engine — built for GameCube/Wii-class rendering (fixed-function TEV, cooked textures, no shaders required).
-
+Procedural skybox packs for the [Octave-libogc](https://github.com/myuu-151/Octave-libogc) game engine — built for GameCube/Wii-class rendering.
 | Day | Night |
 |---|---|
 | ![Day preview](SkyboxDay/native/preview_day.png) | ![Night preview](SkyboxNight/preview_night_sw.png) |
