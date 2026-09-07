@@ -1,4 +1,4 @@
-# OctaveSkies
+# OctaveSimpleSkies
 
 Procedural skybox packs for the [Octave-libogc](https://github.com/myuu-151/Octave-libogc) game engine — built for GameCube/Wii-class rendering.
 | Day | Night |
